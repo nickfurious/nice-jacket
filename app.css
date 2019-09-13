@@ -1,0 +1,25 @@
+body {
+	background: url(https://cdn.mortonsalt.com/wp-content/uploads/morton-salt-girl-can-make-advertising-industry-history-as-first-girl-icon-voted-into-madison-avenue-walk-of-fame-a-advertising-week.jpg);
+	background-size: cover;
+}
+
+html {
+	height: 100%
+}
+
+#content {
+	text-align: left;
+	padding-top: 65%;
+	color: grey;
+}
+
+h1 {
+	font-weight: 700;
+	font-size: 5em;
+}
+
+hr {
+	width: 400px
+	border-top: 1px solid #f8f8f8;
+	border-bottom: 1px solid rgba(0,0,0,0.2);
+}
